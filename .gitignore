@@ -12,6 +12,7 @@ Movefile
 wordpress/
 public_html/
 dist-wp/
+dist/
 * - コピー
 *sample*
 *sample*.*
